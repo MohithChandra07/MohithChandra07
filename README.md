@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 👋 &nbsp;Hi, I'm **@MohithChandra07**
+- 👋 &nbsp;Hi, I'm **@Mohith Chandra Gugulothu**
 - 👀 &nbsp;I'm interested in **AI/ML**, **Generative AI**, and building impactful solutions for real-world problems
 - 🌱 &nbsp;I'm currently learning **advanced Machine Learning**, **Deep Learning**, and developing data-driven applications
 - 💞️ &nbsp;I'm looking to collaborate on projects related to **AI/ML research**, **intelligent automation**, and **data science applications**
