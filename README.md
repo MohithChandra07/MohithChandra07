@@ -70,27 +70,6 @@ mohith = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohithChandra07&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohithChandra07&layout=compact&theme=midnight-purple&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohithChandra07&theme=midnight-purple&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohithChandra07&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -111,10 +90,3 @@ mohith = {
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MohithChandra07&color=7C3AED&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
