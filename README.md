@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohith%20Chandra%20Gugulothu&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descColor=a0aec0" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+🤖;Passionate+about+AI+%26+ML+🧠;Turning+data+into+decisions+📊;Always+learning%2C+always+growing+🚀)](https://git.io/typing-svg)
 
 </div>
 
