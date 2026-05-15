@@ -8,28 +8,14 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-```python
-mohith = {
-    "name"       : "Mohith Chandra Gugulothu",
-    "location"   : "India 🇮🇳",
-    "focus"      : ["Artificial Intelligence", "Machine Learning", "Data Science"],
-    "learning"   : ["Deep Learning", "Generative AI", "MLOps"],
-    "collaborate": ["AI Research", "Data-driven Applications", "Open Source"],
-    "fun_fact"   : "Every complex problem has an elegant solution — you just need the right model 🎯"
-}
-```
-
----
-
-## 🚀 What I'm Up To
-
-- 🔭 &nbsp;Working on **AI/ML projects** that solve real-world problems
-- 🌱 &nbsp;Currently deep-diving into **Deep Learning** & **Generative AI**
-- 🤝 &nbsp;Open to collaborate on **AI research** and **data-driven applications**
-- 💬 &nbsp;Ask me about **Machine Learning**, **Python**, or anything AI-related
-- 📫 &nbsp;Reach me at **[mohithg404@gmail.com](mailto:mohithg404@gmail.com)**
+- 👋 &nbsp;Hi, I'm **@MohithChandra07**
+- 👀 &nbsp;I'm interested in **AI/ML**, **Generative AI**, and building impactful solutions for real-world problems
+- 🌱 &nbsp;I'm currently learning **advanced Machine Learning**, **Deep Learning**, and developing data-driven applications
+- 💞️ &nbsp;I'm looking to collaborate on projects related to **AI/ML research**, **intelligent automation**, and **data science applications**
+- 📫 &nbsp;How to reach me: **[mohithg404@gmail.com](mailto:mohithg404@gmail.com)** or via LinkedIn at **[mohith-chandra-gugulothu](https://www.linkedin.com/in/mohith-chandra-gugulothu-a6a037392/)**
+- ⚡ &nbsp;Fun fact: I believe every complex problem has an elegant solution — you just need the right model 🎯
 
 ---
 
